@@ -2,13 +2,13 @@
 
 OWKR 내전에서 사용할 OverPy 워크샵 소스를 준비하는 저장소입니다.
 
-> **준비 중** — 현재 `gamemode.opy`에는 OverPy starter pack 예제가 들어 있습니다.
+> **준비 중** · 현재 `gamemode.opy`에는 OverPy starter pack 예제가 들어 있습니다.
 > 운영용 내전 모드나 배포된 워크샵 공유 코드는 아직 이 저장소에 안내되어 있지 않습니다.
 
 ## 현재 파일
 
-- `gamemode.opy` — 설정과 상호작용 키 이동, 위치 표시를 포함한 시작 예제
-- `AGENTS.md` — OverPy 작업과 검증 지침
+- `gamemode.opy` · 설정과 상호작용 키 이동, 위치 표시를 포함한 시작 예제
+- `AGENTS.md` · OverPy 작업과 검증 지침
 
 ## 개발·검증
 
@@ -27,8 +27,8 @@ overpy compile -i gamemode.opy -o /tmp/owkr-workshop.ws.txt
 ## 관련 프로젝트
 
 - [OWKR 커뮤니티](https://github.com/Overwatch-KR) · [Discord](https://discord.gg/overwatchkr)
-- [OWKR Match](https://github.com/Overwatch-KR/owkr-balance) — 내전 참가 명단과 팀 편성
-- [Gather Bot](https://github.com/Overwatch-KR/owkr-gather-bot) — Discord 내전 모집과 티어 수집
-- [내전 규정](https://github.com/Overwatch-KR/owkr-docs) — 규정, 참가 안내와 FAQ
-- [관리자 시험](https://github.com/Overwatch-KR/owkr-exam) — 내전 관리자 시험 웹
-- [내전 워크샵](https://github.com/Overwatch-KR/owkr-scrim-workshop) — 준비 중인 OverPy 소스
+- [OWKR Match](https://github.com/Overwatch-KR/owkr-balance) · 내전 참가 명단과 팀 편성
+- [Gather Bot](https://github.com/Overwatch-KR/owkr-gather-bot) · Discord 내전 모집과 티어 수집
+- [내전 규정](https://github.com/Overwatch-KR/owkr-docs) · 규정, 참가 안내와 FAQ
+- [관리자 시험](https://github.com/Overwatch-KR/owkr-exam) · 내전 관리자 시험 웹
+- [내전 워크샵](https://github.com/Overwatch-KR/owkr-scrim-workshop) · 준비 중인 OverPy 소스
